@@ -1,5 +1,10 @@
 .funny {
   font-size: 70px;
-  color: blue;
+  color: #0F2105;
   font-family: Cambria;
+  margin-bottom: 70px;
+}
+
+.kickstarter {
+  border-radius: 20px;
 }
