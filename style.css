@@ -16,3 +16,9 @@
   overflow-y: scroll;
   float: right;
 }
+
+@media (max-width: 40em) {
+  #twitter {
+  display: none;
+  }
+  }
